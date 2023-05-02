@@ -1,0 +1,16 @@
+{
+  "name": "websocket-neon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@neondatabase/serverless": "~0.4.3",
+    "undici": "~5.22.0"
+  }
+}
